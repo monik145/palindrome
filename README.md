@@ -1,0 +1,2 @@
+# palindrome
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e41f4a2353cc473fa83780488391bca8)](https://app.codacy.com/manual/monik145/palindrome?utm_source=github.com&utm_medium=referral&utm_content=monik145/palindrome&utm_campaign=Badge_Grade_Dashboard)
